@@ -1,8 +1,0 @@
-package com.decompiler.config;
-
-import java.util.HashMap;
-import java.util.Map;
-
-/**
- * 构建Vineflower反编译器选项的构建器
- */
